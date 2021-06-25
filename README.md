@@ -41,6 +41,6 @@ Anonfiles Cracker is under licensed MIT [MIT License](https://github.com/KanekiW
     <b>Informations</b><br>
     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/KanekiWeb/Anonfiles-Cracker?style=social">
     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KanekiWeb/Anonfiles-Cracker?style=social">  
-    <img alt="GPLv3 license" src="https://img.shields.io/github/stars/Its-Vichy/ProxyHeast?style=social">
+    <img alt="GPLv3 license" src="https://img.shields.io/github/stars/KanekiWeb/Anonfiles-Cracker?style=social">
     <img alt="Open Source Love svg1" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/">
 </p>
