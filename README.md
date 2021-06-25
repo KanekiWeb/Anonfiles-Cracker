@@ -16,7 +16,7 @@
 * Check by Keyword/s
 * MultiThreading for more fast checking
 * Cheking with proxies (only if ratelimite)
-
+ 
 ## 🖥️ Windows Usage
 
 > **Install**
