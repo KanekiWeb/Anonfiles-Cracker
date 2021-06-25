@@ -12,4 +12,4 @@
 **EN:** For educational purposes only.  
 
 ## 📷 Demo
-![](![image](https://user-images.githubusercontent.com/72992708/123486286-04001d00-d60c-11eb-97b3-4d35f33aff7c.png))
+![](https://raw.githubusercontent.com/KanekiWeb/Anonfiles-Cracker/main/demo.png)
